@@ -1,6 +1,8 @@
 # devops-pairing-terraform
 Create a tempoary user for use in devops pairing interviewes
 
+**We do not expect the interviewee to use this project**
+
 ## How to use
 1. Clone this repo
 3. Ensure terraform/tfenv is installed
